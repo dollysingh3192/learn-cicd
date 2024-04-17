@@ -1,4 +1,4 @@
-- Clone the repo
+- Clone the Repo
 
 ```jsx
 git clone https://github.com/100xdevs-cohort-2/week-17-final-code
